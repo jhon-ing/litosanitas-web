@@ -297,9 +297,7 @@ ul.sub-menu li {
      margin-bottom: 26px;
 }
 .aboutimg img{
-width:45%;
-margin-left: 120px;
-margin-bottom: 80px;
+width:100%;
 }
 #about_sec{
 padding-top: 40px
@@ -1039,7 +1037,7 @@ footer {
      transition: all 500ms ease;
 }
  .servicRead i{
-     margin-left: 15px;
+     margin-left: 150px;
 }
 /*======================================================================= // Services Details =========================================================================*/
  .servicesDetails {
